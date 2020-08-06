@@ -1,0 +1,65 @@
+@import url(./__overlay/cover__overlay.css);
+@import url(./__background/cover__background.css);
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+.cover{
+  display: grid;
+  grid-template-columns: 1fr 100px 360px 100px 1fr;
+  grid-template-rows:  repeat(4, 1fr);
+  position: relative;
+  max-width: 1184px;
+  max-height: 740px;
+  background-color: #2A2C2F;
+  margin: 0 auto;
+  padding-top: 12px;
+  padding-bottom: 92px;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+@media (max-width: 1279px) and (min-width: 1024px){
+.cover{
+  display: grid;
+  grid-template-columns: 1fr 100px 360px 100px 1fr;
+  grid-template-rows:  repeat(4, 1fr);
+  position: relative;
+  max-width: 1024px;
+  max-height: 640px;
+  background-color: #2A2C2F;
+  padding-left: 0;
+  padding-top: 12px;
+  padding-bottom: 92px;
+  padding-right: 0;
+}
+}
+@media (max-width: 1023px) and (min-width: 768px){
+.cover{
+  display: grid;
+  grid-template-columns: 1fr 100px 360px 100px 1fr;
+  grid-template-rows:  repeat(4, 1fr);
+  position: relative;
+  max-width: 768px;
+  max-height: 480px;
+  background-color: #2A2C2F;
+  margin: 0;
+  padding-top: 12px;
+  padding-bottom: 92px;
+  padding-left: 0;
+padding-right: 0;
+}
+}
+@media (max-width: 767px){
+.cover{
+  display: grid;
+  grid-template-columns: 1fr  320px  1fr;
+  grid-template-rows:  repeat(4, 1fr);
+  position: relative;
+  max-width: 320px;
+  max-height: 200px;
+  background-color: #2A2C2F;
+  margin: 0;
+  padding-top: 16px;
+  padding-bottom: 64px;
+  padding-left: 0;
+  padding-right: 0;
+}
+}

@@ -1,0 +1,56 @@
+.place__paragraph{
+  color: #FFFFFF;
+  margin: 0;
+  font-size: 18px;
+  line-height: 163%;
+  align-self: start;
+  
+}
+@media (max-width: 1279px) and (min-width: 1024px){
+.place__paragraph{
+  color: #FFFFFF;
+  margin: 0;
+  font-size: 18px;
+  line-height: 163%;
+  align-self: start;
+  
+}
+}
+@media (max-width: 1023px) and (min-width: 768px){
+.place__paragraph{
+  color: #FFFFFF;
+  margin: 0;
+  font-size: 18px;
+  line-height: 163%;
+  align-self: start;
+  
+}
+}
+@media (max-width: 767px){
+.place__paragraph:nth-child(even) {
+  width: 288px;
+  color: #FFFFFF;
+  margin: 0;
+  font-size: 18px;
+  line-height: 163%;
+  
+  
+  padding-left: 16px;
+  padding-right: 16px;
+grid-column-start: 1;
+grid-column-end: 2;
+}
+.place__paragraph:nth-child(odd) {
+  width: 288px;
+  color: #FFFFFF;
+  margin: 0;
+  font-size: 18px;
+  line-height: 163%;
+  
+  padding-top: 24px;
+  padding-left: 16px;
+  padding-right: 16px;
+ grid-column-start: 1;
+grid-column-end: 2; 
+}
+}

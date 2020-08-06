@@ -1,0 +1,16 @@
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__image/lead__image.css);
+@import url(./__caption/lead__caption.css);
+.lead{
+  background-color: #2A2C2F;
+  width: 100%;
+  
+  
+}
+@media screen and  (max-width: 767px){
+.lead{
+  background-color: #2A2C2F;
+  width: 100%;
+  margin-bottom: -150px;
+}

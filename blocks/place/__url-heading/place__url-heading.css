@@ -1,0 +1,15 @@
+.place__url-heading{
+  font-size: 12px;
+  line-height: 12px;
+  color: #AAAAAA;
+  margin:0;
+}
+@media (max-width: 767px){
+.place__url-heading{
+  font-size: 0px;
+  line-height: 12px;
+  color: #AAAAAA;
+  margin:0;
+  height: 0;
+}
+}

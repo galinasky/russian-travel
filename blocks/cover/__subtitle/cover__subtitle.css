@@ -1,0 +1,26 @@
+.cover__subtitle{
+  grid-row-start: 3;
+  grid-column-start: 3;
+  grid-row-end: 3;
+  grid-column-end: 3;
+  font-size: 18px;
+line-height: 22px;
+text-align: center;
+font-style: normal;
+color: #FFFFFF;
+z-index: 5;
+}
+@media (max-width: 767px){
+.cover__subtitle{
+  grid-row-start: 3;
+  grid-column-start: 1;
+  grid-row-end: 4;
+  grid-column-end: 4;
+  font-size: 14px;
+line-height: 16px;
+text-align: center;
+font-style: normal;
+color: #FFFFFF;
+z-index: 5;
+}
+}

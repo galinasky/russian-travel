@@ -2,6 +2,10 @@
   font-size: 18px;
   line-height: 22px;
   color: #FFFFFF;
+opacity: 100%;
+}
+.place__link:hover{
+opacity: 0.8;
 }
 @media (max-width: 767px){
 .place__link{
@@ -9,5 +13,9 @@
   line-height: 22px;
   color: #FFFFFF;
   height: 0;
+opacity: 100%;
+}
+.place__link:hover{
+opacity: 0.8;
 }
 }

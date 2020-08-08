@@ -1,24 +1,20 @@
 .header__logo{
   position: absolute;
   width: 176px;
-  height: 52px;
+ 
   left: 48px;
   top: 28px;
 }
 @media (max-width: 1023px) and (min-width: 768px){
 .header__logo{
-  position: absolute;
-  width: 176px;
-  height: 52px;
+ 
   left: 24px;
   top: 28px;
 }
 }
 @media (max-width: 767px){
 .header__logo{
-  position: absolute;
-  width: 176px;
-  max-height: 52px;
+ 
   left: 16px;
   top: 16px;
 }

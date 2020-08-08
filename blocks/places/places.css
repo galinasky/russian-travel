@@ -6,7 +6,7 @@
 }
 @media (max-width: 1279px) and (min-width: 1024px){
 .places{
-  background-color: #2A2C2F;
+  
   padding-left: 48px;
   padding-right: 48px;
   padding-top: 12px;
@@ -15,7 +15,7 @@
 @media (max-width: 1023px) and (min-width: 768px){
 
 .places{
-  background-color: #2A2C2F;
+  
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 12px;
@@ -23,7 +23,7 @@
 }
 @media (max-width: 767px){
 .places{
-  background-color: #2A2C2F;
+  
   padding-left: 0;
   padding-right: 0;
   

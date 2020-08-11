@@ -4,10 +4,4 @@
   color: #AAAAAA;
   margin:0;
 }
-@media (max-width: 767px){
-.place__url-heading{
-  font-size: 0px;
-  
-  height: 0;
-}
-}
+

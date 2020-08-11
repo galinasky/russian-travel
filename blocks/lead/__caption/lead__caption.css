@@ -8,29 +8,20 @@
   padding: 0;
   margin-left: 148px;
   margin-right: auto;
+letter-spacing: 0.15em;
 }
 @media (max-width: 1279px) and (min-width: 1024px){
 .lead__caption{
-  font-style: normal;
-  font-size: 10px;
-  line-height: 14px;
-  text-transform: uppercase;
-  color: #FFFFFF;
-  margin: 0;
-  padding: 0;
+  
+ 
   margin-left: 48px;
   
 }
 }
 @media (max-width: 1023px) and (min-width: 768px){
 .lead__caption{
-  font-style: normal;
-  font-size: 10px;
-  line-height: 14px;
-  text-transform: uppercase;
-  color: #FFFFFF;
-  margin: 0;
-  padding: 0;
+  
+  
   margin-left: 0px;
  
 }
@@ -38,16 +29,11 @@
 @media (max-width: 767px){
 .lead__caption{
 
-  font-style: normal;
-  font-size: 10px;
-line-height: 14px;
-  text-transform: uppercase;
-  color: #FFFFFF;
-margin: 0;
-  padding: 0;
-  margin-bottom: 100px;
+  
+
+  
   margin-left: 16px;
   margin-right: auto;
-  letter-spacing: 0.15em;
+  
 }
 }

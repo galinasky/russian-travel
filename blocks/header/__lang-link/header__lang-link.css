@@ -1,23 +1,27 @@
+@import url(./_sylka/header__lang-link_sylka.css);
 .header__lang-link{
-  position: absolute;
-  right: 46px;
-  top: 48px;
+  padding:0;
+margin: 0;
+list-style-type: none;
+  padding-right: 46px;
+  padding-top: 48px;
   color: white;
-  margin: 0;
+  
+
 }
 @media (max-width: 1023px) and (min-width: 768px){
 .header__lang-link{
  
-  right: 24px;
-  top: 48px;
+  padding-right: 24px;
+  padding-top: 48px;
   
 }
 }
 @media (max-width: 767px){
 .header__lang-link{
  
-  right: 16px;
-  top: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
   
 }
 }

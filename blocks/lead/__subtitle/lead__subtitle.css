@@ -12,11 +12,11 @@
 
 @media (max-width: 767px){
 .lead__subtitle{
-  font-weight: normal;
+  
   font-size: 16px;
 line-height: 20px;
- text-align: center;
-  margin: 0 auto;
+ 
+  
   max-width: 288px;
   
   padding: 0px;

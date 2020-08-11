@@ -1,21 +1,21 @@
 .header__logo{
-  position: absolute;
+  
   width: 176px;
- 
-  left: 48px;
-  top: 28px;
+ padding-left: 48px;
+  
+ padding-top: 28px;
 }
 @media (max-width: 1023px) and (min-width: 768px){
 .header__logo{
  
-  left: 24px;
-  top: 28px;
+   padding-left: 24px;
+  
 }
 }
 @media (max-width: 767px){
 .header__logo{
- 
-  left: 16px;
-  top: 16px;
+  width: 142px;
+   padding-left: 16px;
+  padding-top: 16px;
 }
 }

@@ -10,6 +10,8 @@ font-style: normal;
 color: #FFFFFF;
 z-index: 5;
 text-decoration: none;
+padding:0;
+margin:0;
 }
 @media (max-width: 767px){
 .cover__subtitle{

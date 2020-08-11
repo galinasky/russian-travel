@@ -4,6 +4,7 @@
   font-style: normal;
   color: #FFFFFF;
   margin:0;
+font-weight: 900;
 }
 @media (max-width: 767px){
 .place__title{

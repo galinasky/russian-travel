@@ -9,7 +9,7 @@
   
   padding-left: 48px;
   padding-right: 48px;
-  padding-top: 12px;
+  
 }
 }
 @media (max-width: 1023px) and (min-width: 768px){
@@ -18,7 +18,7 @@
   
   padding-left: 24px;
   padding-right: 24px;
-  padding-top: 12px;
+  
 }
 }
 @media (max-width: 767px){

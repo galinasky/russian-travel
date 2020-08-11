@@ -7,15 +7,3 @@ opacity: 100%;
 .place__link:hover{
 opacity: 0.8;
 }
-@media (max-width: 767px){
-.place__link{
-  font-size: 0px;
-  line-height: 22px;
-  color: #FFFFFF;
-  height: 0;
-opacity: 100%;
-}
-.place__link:hover{
-opacity: 0.8;
-}
-}

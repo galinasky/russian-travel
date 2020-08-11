@@ -10,11 +10,3 @@
   background-color: #2A2C2F;
   height: 100vh;
 }
-u{
-  margin-right: 28px;
-}
-@media (max-width: 767px){
-u{
-  margin-right: 18px;
-}
-}

@@ -14,14 +14,14 @@ padding: 0;
 .intro__text{
   
 
- margin-top: 32px;
+ 
  margin-left: 48px;
 }
 }
 @media (max-width: 1023px) and (min-width: 768px){
 .intro__text{
   
-  margin-top: 32px;
+
  margin-left: 24px;
 }
 }
@@ -29,7 +29,7 @@ padding: 0;
 .intro__text{
  
   max-width: 288px;
-  max-height: 522px;
+  
   margin: 40px 16px 0 16px;
 padding: 0;
  

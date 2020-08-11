@@ -3,7 +3,7 @@
   grid-column-start: 1;
   grid-row-end: 5;
   grid-column-end: 6;
-  
+  opacity: 0.3;
   z-index: 2;
   max-width: 1184px;
   height: 740px;
@@ -11,14 +11,14 @@
 @media (max-width: 1279px) and (min-width: 1024px){
 .cover__background{
   
-  max-width: 1024px;
+  max-width: 1004px;
  height: 640px;
 }
 }
 @media (max-width: 1023px) and (min-width: 768px){
 .cover__background{
   
-  max-width: 768px;
+  max-width: 753px;
    height: 480px;
 }
 }

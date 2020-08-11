@@ -11,7 +11,7 @@ flex-direction: column;
 }
 @media screen and  (max-width: 767px){
 .lead{
-  background-color: #2A2C2F;
-  width: 100%;
-  margin-bottom: -150px;
+ padding-bottom: 0px;
+  margin-bottom: 0px;
+}
 }

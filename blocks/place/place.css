@@ -8,7 +8,7 @@
   display: grid;
   padding-bottom: 80px;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows:  max-content(460px) minmax(min-content,max-content) minmax(min-content,max-content) 1fr;
+  
   grid-column-gap: 40px;
   grid-row-gap: 48px;
   
@@ -31,7 +31,7 @@
 }
 }
 @media (max-width: 767px){
-.place: {
+.place {
   display: flex;
   flex-direction: column;
   padding-bottom: 48px;

@@ -1,7 +1,7 @@
 .place__website{
   font-style: normal;
   padding-top: 30px;
-}
+ }
 @media (max-width: 767px){
 .place__website{
   display:none;

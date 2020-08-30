@@ -4,29 +4,26 @@
   font-size: 18px;
   line-height: 163%;
   align-self: start;
-  
+  justify-items: start;
 }
-
-
-@media (max-width: 767px){
-.place__paragraph:nth-child(even) {
-  width: 288px;
-  
-  
-  
-  padding-left: 16px;
-  padding-right: 16px;
-grid-column-start: 1;
-grid-column-end: 2;
-}
-.place__paragraph:nth-child(odd) {
-  width: 288px;
-  
-  
+.place__paragraph:nth-last-child("1")  {
   padding-top: 24px;
+}
+.place__paragraph:nth-child("1")  {
+  padding-top: 0px;
+  
+}
+@media (max-width: 1023px) and(min-width: 768px){
+.place__paragraph{
+font-size: 16px;
+}
+}
+@media (max-width: 767px){
+.place__paragraph {
+  width: 288px;
   padding-left: 16px;
   padding-right: 16px;
- grid-column-start: 1;
-grid-column-end: 2; 
+  grid-column-start: 1;
+  grid-column-end: 2;
 }
 }

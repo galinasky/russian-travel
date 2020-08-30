@@ -8,32 +8,20 @@
   padding: 0;
   margin-left: 148px;
   margin-right: auto;
-letter-spacing: 0.15em;
+  letter-spacing: 0.15em;
 }
 @media (max-width: 1279px) and (min-width: 1024px){
 .lead__caption{
-  
- 
   margin-left: 48px;
-  
 }
 }
 @media (max-width: 1023px) and (min-width: 768px){
 .lead__caption{
-  
-  
-  margin-left: 0px;
- 
+  margin-left: 24px;
 }
 }
 @media (max-width: 767px){
 .lead__caption{
-
-  
-
-  
-  margin-left: 16px;
-  margin-right: auto;
-  
+ margin-left: 16px;
 }
 }

@@ -2,8 +2,9 @@
   font-size: 18px;
   line-height: 22px;
   color: #FFFFFF;
-opacity: 100%;
+  opacity: 100%;
+  justify-items: start;
 }
 .place__link:hover{
-opacity: 0.8;
+  opacity: 0.8;
 }

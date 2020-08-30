@@ -1,6 +1,6 @@
 .photo-grid__image{
   max-width: 284px;
-  
+ 
 }
 @media (max-width: 1279px) and (min-width: 1024px){
 .photo-grid__image{

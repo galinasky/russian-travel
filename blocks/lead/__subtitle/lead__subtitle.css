@@ -6,20 +6,13 @@
   color: #FFFFFF;
   margin: 0 auto;
   max-width: 640px;
-  
 }
-
 
 @media (max-width: 767px){
 .lead__subtitle{
-  
   font-size: 16px;
-line-height: 20px;
- 
-  
+  line-height: 20px;
   max-width: 288px;
-  
   padding: 0px;
-
 }
 }

@@ -1,14 +1,19 @@
 .header__lang-links{
-margin: 0;
-padding: 0;
-margin-right: 28px;
-display: flex;
-justifiy-content: space-between;
-list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-right: 48px;
+  display: flex;
+  justifiy-content: space-between;
+  list-style-type: none;
+}
+@media (max-width: 1023px) and (min-width: 768px){
+.header__lang-links{
+  padding-right: 24px;
+}
 }
 @media (max-width: 767px){
 .header__lang-links{
-  margin-right: 18px;
+  margin-right: 16px;
 
 }
 }

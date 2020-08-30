@@ -1,5 +1,5 @@
     .nojekyll
-    https://galinasky.github.io/russian-travel/
+    https://galinasky.github.io/russian-travel/ 
 russian-travel Alt-H1 проект представляет собой страницу, составленную из секций с применением flex и grid контейнеров. В нем присутствуют:
 
     

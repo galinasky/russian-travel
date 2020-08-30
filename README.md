@@ -1,9 +1,10 @@
-   Проект 3: Путешествие по России
+Проект 3: Путешествие по России
 Обзор
 
     Интро
     Figma
     Картинки
+
 
    .nojekyll
     https://galinasky.github.io/russian-travel/ 
